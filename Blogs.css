@@ -1,0 +1,48 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  main {
+    margin: 20px;
+  }
+  
+  .place {
+    margin-bottom: 40px;
+  }
+  
+  .place img {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
